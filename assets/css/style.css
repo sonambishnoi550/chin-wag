@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap');
+
+.sec_4_heading {
+    font-family: 'Roboto Slab', sans-serif;
+    font-size: 45px;
+    font-weight: 900;
+    line-height: 131%;
+    text-align: left;
+    color: #2A3739;
+    padding-bottom: 20px;
+    max-width: 448px;
+    margin: auto;
+}
+
+.sec_4_pera {
+    font-family: 'Roboto Slab', sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 175%;
+    text-align: left;
+    color: #4d4d4d;
+    padding-bottom: 12px;
+    max-width: 404px;
+    margin: auto;
+}
+
+.pt-90 {
+    padding-top: 90px;
+}
+
+.sec_4_img {
+    max-width: 489.02px !important;
+
+}
+
+.sec_4_pt_72 {
+    padding-top: 72px;
+}
+
+.sec_4_cross_img {
+    position: absolute;
+    right: 8%;
+    top: 50%;
+}
+@media(max-width:576px){
+
+.m_sm_44 {
+  margin: 44px;
+}
+}
